@@ -155,10 +155,7 @@ Running the Simulation
    [ INFO] [1590106457.277593210]: Sensor: Type ( IMU )
    [ INFO] [1590106457.277967857]: Sensor: Name( VLP16_1 )
    [ INFO] [1590106457.278011484]: Sensor: Type ( Lidar )
-   [ INFO] [1590106457.278399314]: Sensor: Name( VLP16_2 )
-   [ INFO] [1590106457.278436145]: Sensor: Type ( Lidar )
-   [ INFO] [1590106457.278892115]: Sensor: Name( VLP16_3 )
-   [ INFO] [1590106457.278939072]: Sensor: Type ( Lidar )
+
    Waiting for connection -
    Connected!
    
